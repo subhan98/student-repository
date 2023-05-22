@@ -56,5 +56,3 @@ students = [
 
 ]
 =end
-
-# Hello 
